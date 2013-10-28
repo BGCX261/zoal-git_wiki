@@ -1,0 +1,24 @@
+#summary Different AI, introduction to the theory.
+
+= Introduction to Zoal =
+
+Intelligence is a very old topic that appears in many different science branches. In information technology, Artificial Intelligence (AI) followed so different approach to solve the problems that are believed to be better solved by AI. Despite the great successes in this regard, we are still a way from simulating the human brain functions that are closely related to intelligence.
+
+== Zoal Approach to AI ==
+  * Zoal is inspired by the biological brain structure; same like the classical Neural Networks (NNs).
+  * The core building block is the *Neuron* modeled in a new way to incorporate all the new discoveries in neuroscience.
+  * Instead of using _reverse engineering_, Zoal use an engineering approach. That is, starting from a *Single Cell* and develop it to a mature intelligent bot.
+  * The brain is a surviving tool! Zoal respond to this by looking at the brain along with the body "hosting this brain" and the surrounding environment.
+  * Gens are part of the game. Zoal incorporate genetic-like behaviour, but only in limited manner. This topic is still open in the theory.
+
+== Current Status of the Theory ==
+
+The theory have a good skeleton. We believe that using what we have (I will publish it all here). Some work is to be done in 4 direction:
+  # Further developing the theory.
+  # Working on a mathematical framework for the theory.
+  # Developing algorithms. 
+  # Coding!!
+This space is to explore all the above. 
+
+== Welcome all of _YOU_ ==
+I hope this grab your interest. I know it's a big project in it's inception phase. All contributions are welcome.
